@@ -1,0 +1,49 @@
+Youdao dictionary is the world's first free language translation software based on search engine technology. Youdao dictionary easily includes popular words and a large number of example sentences on the Internet through the original 
+network definition function, and completely includes the data of several authoritative dictionaries, such as Collins advanced english-chinese dictionary [1] and 21st century english-chinese dictionary, with a large and complete thesaurus and fast and accurate search of words. 
+Combined with rich original video audio sample sentences, it covers 37 million entries and 23 million 
+sample sentences in total.
+Youdao dictionary integration of Chinese, English, Japanese, Korean, French multilingual professional dictionary, 
+switch language environment, you can quickly translate the content, web version of youdao translation also support Chinese, English, Japanese, Korean, 
+French, western, Russian seven languages translation. The newly added graphical dictionary and encyclopedia functions provide a one-stop knowledge 
+inquiry platform, which can effectively help users to understand and memorize new words. Moreover, the word-based function enables users to import 
+vocabulary words from the word bank anytime and anywhere, making it easy to get!
+Explanation based on youdao youdao network background powerful search engine, with the help of youdao search real-time web page data is fetched and massive
+information storage technology, received billions of dollars in massive web data, and accompanied by youdao search engine web scraping process continuously 
+expanded into the latest web data, formed a set no limit, automatic expansion, real-time update of the dictionary database. Youdao network definition obtains a 
+large number of popular words, foreign language names and abbreviations that exist on the Internet but are not included in ordinary dictionaries, including film and 
+television works, celebrities' names, brand names, place names, dish names, professional terms and so on. Internet content changes with each passing day, youdao 
+thesaurus also keeps pace with The Times, easy to include new hot words on the Internet.
+Original audio video example
+New original audio video example sentences, including international famous schools open classes and European and American classic film and television works 
+video example sentences, restore the most authentic English use scenarios. Authentic and professional audio examples from VOA, BBC and other authoritative
+ English broadcasts. The pronunciation of the examples contains pure standard and clear English reading, completely solve the user's "dumb English" problem.
+Speaking practice grading function
+
+Based on the original English scoring engine, youdao dictionary 6.0 version of the launch of oral practice function, to help users easily follow the word 
+and sentence, the system will be the user's pronunciation of intelligent scoring, and pointed out the problems in pronunciation, so that users speak a 
+fluent and authentic English.
+Strong intelligence to draw words
+PC version of the screen word extraction: youdao dictionary first introduced the OCR word extraction function, can easily realize the dynamic sorting of meaning and intelligent 
+word extraction in a variety of browsers, pictures, PDF documents, and is the first to achieve IE9, Chrome screen word extraction dictionary, 6.0 above also added PPT2013 word extraction function.
+Camera word search: youdao dictionary is the first to launch the camera word search function, that is, shoot and search, subverted the traditional use 
+of word search habits, simplified the user's query process, bring better user experience.
+Rich encyclopedia features
+Youdao dictionary is integrated into the world's largest Chinese encyclopedia, wikipedia and baidu encyclopedia, covering information in various 
+disciplines and fields, and is a one-stop online reference and knowledge inquiry platform. Query words at the same time, to provide a wealth of encyclopedia 
+knowledge to meet the needs of users for information. Unique "youdao instructions" technology provides users with rich content such as characters, videos, 
+encyclopedias, etc.
+Youdao school
+Youdao school is a new online education service launched by youdao dictionary. Through online teaching, youdao school 
+delivers services mainly by live teaching and supplemented by recording and broadcasting. It features high-quality courses to help users solve problems in English learning. 
+In addition, youdao school is the most professional online English learning platform, providing original programs such as English afternoon tea and watching things for foreigners.
+Look at the world
+Youdao dictionary is new in version 6.0 look at the world mobile end section, collect the latest Wall Street journal, CNN and 
+other international media information, updated daily bilingual content, through clear intuitive content display platform, with mass customization as bilingual articles, imparts scientific learning method to the user, and invited 
+CRI foreign anchor on authentic foreign culture, to help users to develop the foreigner thinking, efficient and steadily enhance the level of English, the user can also choose to share these articles to social media.
+Global pronunciation
+
+Global pronunciation is the main feature of the new youdao dictionary, covering 227,702 words and 2.5 million pronunciations. 
+In addition to English, it also provides pronunciation in 318 languages. When users query the pronunciation of a certain word, 
+they can click and listen to the pronunciation contributed by global foreign language learners, helping intermediate and advanced English 
+learners to distinguish the accents of different countries and regions, and effectively solve the language barrier during their overseas travel. 
+For words with "local dialect" characteristics, such as people's names and brand names, the global pronunciation function can quickly help users understand these
