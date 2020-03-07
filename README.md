@@ -1,3 +1,4 @@
+
 # :pencil2: algorithm-work
 update time:2020/3/7</br>
 Auto created by [algorithm-work](https://github.com/liyuanbo1997/algorithm-work)
@@ -10,8 +11,8 @@ KEYWORDS:`反转`、`回文`、`哈夫曼`、`压缩与解压缩`</br>
 | 2 |[回文分区](./Dynamic_program) |  给定一个字符串，如果分区的每个子字符串都是回文，则字符串的分区是回文分区 |
 | 3 | [HuffmanCode](./HuffmanCode) | 实现压缩和解压缩功能的软件
 
- <h1 align="center">反转次数</h1></br>
- ## 实验要求和目的
+ <h1 align="center">反转次数</h1>
+## 实验要求和目的
     实验目的：1.掌握分治算法的基本思想（分-治-合）、技巧和效率分析方法。
           2.熟练掌握用递归设计分治算法的基本步骤（基准与递归方程）。 
           3.学会利用分治算法解决实际问题。 
