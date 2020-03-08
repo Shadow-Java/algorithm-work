@@ -1,8 +1,8 @@
-
 # :pencil2: algorithm-work
 update time:2020/3/7</br>
-Auto created by [algorithm-work](https://github.com/liyuanbo1997/algorithm-work)
-
+Auto created by [algorithm-work](https://github.com/liyuanbo1997/algorithm-work)</br>
+![](https://img.shields.io/badge/type-course%20design-orange)
+![](https://img.shields.io/badge/Language-Java-green)</br>
 KeyWords:**反转**、**回文**、**哈夫曼**、**压缩与解压缩**</br>
 ## 🔗章节总览</br>
 | # | Title | Topic |
